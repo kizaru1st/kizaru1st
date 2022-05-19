@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -17,6 +16,7 @@ Here are some ideas to get you started:
 
 
 # Hi, I'm Reza! 👋
+- 🌱 I’m currently learning Backend Web Development (NodeJS)
 
 ## Skills
 - 👨‍💻 JavaScript, PHP, Java
@@ -29,7 +29,7 @@ I'm a Backend Developer
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-reza-rizki-rahmadi-051212216/)
 
-<img hight="320" width="450" align="left" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+<img hight="320" width="450" align="center" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
 
 
 
