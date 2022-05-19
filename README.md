@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 # Hi, I'm Reza! 👋
-- 🌱 I’m currently learning Backend Web Development (NodeJS)
+- 🌱 I’m currently learning Backend Web Development (NodeJS, MongoDB, Redis)
 
 ## Skills
 - 👨‍💻 JavaScript, PHP, Java
