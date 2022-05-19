@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hi, I'm Reza! 👋
+
+## Skills
+- 👨‍💻 JavaScript, PHP, Java
+- 💽 MySQL, PostgreSQL
+
+## 🚀 About Me
+I'm a Backend Developer
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-reza-rizki-rahmadi-051212216/)
+
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+
+
+
+
+
+
+
+
+
+
+
