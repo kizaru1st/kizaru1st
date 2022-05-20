@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi, I'm Reza! 👋 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
-- 🌱 I’m currently learning Backend Web Development (NodeJS, MongoDB, Redis)
+# Hi, I'm Reza! 👋 
+<img src="https://i.imgur.com/KXx0cCx.gif" align="left" width="373.5px" height="208.5px">
+- 🌱 I’m currently learning Backend Web Development (NodeJS, Laravel)
 
 
 ## Skills
