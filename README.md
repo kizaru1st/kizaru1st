@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Reza! 👋 
 - 🌱 I’m currently learning Backend Web Development (NodeJS, Laravel)
-<img src="https://i.imgur.com/KXx0cCx.gif" align="left" ">
+<img src="https://i.imgur.com/KXx0cCx.gif" align="left">
 
 
 
