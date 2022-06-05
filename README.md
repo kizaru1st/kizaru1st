@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 
 
 # Hi, I'm Reza! 👋 
-- 🌱 I’m currently learning Backend Web Development (NodeJS, Laravel)
+- 🌱 I’m currently learning Backend Web Development
 <img src="https://i.imgur.com/KXx0cCx.gif">
 
 
 
 ## Skills
 - 💻 Bootstrap
-- 👨‍💻 JavaScript, Laravel, Java
+- 👨‍💻 NodeJS, Laravel, Java
 - 💽 MySQL, PostgreSQL
 <br>
 
