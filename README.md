@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Skills
 - 💻 Bootstrap
-- 👨‍💻 NodeJS, Laravel, Java
+- 👨‍💻 ExpressJS, Laravel, Java
 - 💽 MySQL, PostgreSQL
 <br>
 
