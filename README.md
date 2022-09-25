@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## Skills
 - 💻 Bootstrap
 - 👨‍💻 ExpressJS, Laravel, Java
-- 💽 MySQL, PostgreSQL
+- 💽 MySQL, PostgreSQL, MongoDB
 <br>
 
 
