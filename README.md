@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 # Hi, I'm Reza! 👋 
-- 🌱 I’m currently learning Backend Web Development
+🌱 I’m currently learning Backend Web Development
 <img src="https://i.imgur.com/KXx0cCx.gif">
 
 
