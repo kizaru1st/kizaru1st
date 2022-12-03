@@ -1,7 +1,7 @@
 # 💫 About Me:
 - Hi, I'm Reza! 👋
 - 🌱 I’m currently learning Backend Web Development
-- <img src="https://i.imgur.com/KXx0cCx.gif">
+<img src="https://i.imgur.com/KXx0cCx.gif">
 
 
 ## 🌐 Socials:
