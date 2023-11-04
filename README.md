@@ -1,6 +1,6 @@
 # 💫 About Me:
 - Hi, I'm Reza! 👋
-- 🌱 I’m currently learning FrontEnd Web Development
+- 🌱 I’m currently learning Frontend Web Development
 <img src="https://i.imgur.com/KXx0cCx.gif">
 
 
