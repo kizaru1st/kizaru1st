@@ -9,7 +9,7 @@
 
 
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=tailwind,react,postman&theme=light)
+![My Skills](https://skillicons.dev/icons?i=tailwind,react,postman,mysql,sequelize,mongodb&theme=light)
 <!--# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kizaru1st&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kizaru1st&theme=radical&hide_border=true)<br/>
