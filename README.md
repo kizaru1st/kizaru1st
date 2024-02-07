@@ -1,6 +1,6 @@
 # 💫 About Me:
 - Hi, I'm Reza! 👋
-- 🌱 I’m currently learning Frontend Web Development
+- 🌱 I’m currently learning Backend Web Development
 <img src="https://i.imgur.com/KXx0cCx.gif">
 
 
@@ -9,7 +9,7 @@
 
 
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=tailwind,react,postman,mysql,sequelize,mongodb&theme=light)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,postman,mysql,postgres,prisma,sequelize,mongodb&theme=light)
 <!--# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kizaru1st&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kizaru1st&theme=radical&hide_border=true)<br/>
