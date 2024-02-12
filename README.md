@@ -11,7 +11,6 @@
 
 # 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,nodejs,express,mysql,postgres,prisma,sequelize,mongodb,postman,github,&theme=light)
-<img src="https://i.imgur.com/Spg4TQG.gif">
 <!--# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kizaru1st&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kizaru1st&theme=radical&hide_border=true)<br/>
