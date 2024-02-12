@@ -11,7 +11,7 @@
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,nodejs,express,postman,mysql,postgres,prisma,sequelize,mongodb,react,tailwind,vite&perline=3" />
+    <img src="https://skillicons.dev/icons?i=github,nodejs,express,postman,mysql,postgres,prisma,sequelize,mongodb,react,tailwind,vite" />
   </a>
 </p>
 <!--# 📊 GitHub Stats:
