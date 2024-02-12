@@ -9,8 +9,13 @@
 
 
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,postman,mysql,postgres,prisma,sequelize,mongodb&theme=light)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,nodejs,express,postman,mysql,postgres,prisma,sequelize,mongodb,react,tailwind,vite&perline=3" />
+  </a>
+</p>
 <!--# 📊 GitHub Stats:
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,postman,mysql,postgres,prisma,sequelize,mongodb&theme=light)
 ![](https://github-readme-stats.vercel.app/api?username=kizaru1st&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kizaru1st&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kizaru1st&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
