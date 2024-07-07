@@ -1,6 +1,6 @@
 # 💫 About Me:
 - Hi, I'm Reza! 👋
-- 🌱 I’m currently learning Backend Web Development
+- 🌱 I’m currently learning Full-Stack Development
 <img src="https://i.imgur.com/zmXLgvW.gif">
 
 
