@@ -13,7 +13,7 @@
 <!--![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,nodejs,express,nestjs,ts,php,laravel,go,mysql,postgres,prisma,sequelize,mongodb,firebase,redis,postman,github,&theme=light)-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,nodejs,express,nestjs,ts,php,laravel,go,mysql,postgres,prisma,sequelize,mongodb,firebase,redis,postman,github,&theme=light&perline=7" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,postman,github,nodejs,express,nestjs,ts,php,laravel,go,mysql,postgres,prisma,sequelize,mongodb,firebase,redis,&theme=light&perline=7" />
   </a>
 </p>
 <!--# 📊 GitHub Stats:
