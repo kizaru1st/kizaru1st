@@ -21,7 +21,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kizaru1st&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kizaru1st&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 -->
----
 
 [![](https://visitcount.itsvg.in/api?id=kizaru1st&icon=1&color=6)](https://visitcount.itsvg.in)
 
